@@ -1,0 +1,202 @@
+2022-04-14 01:25:08.575 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:25:08.824 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:25:08.825 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:25:08.827 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:25:08.828 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:25:08.829 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:25:09.277 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:25:09.314 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:25:09.339 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:25:09.342 +03:00 [INF] Bu ilk logum
+2022-04-14 01:25:09.350 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:25:09.460 +03:00 [INF] Executed ViewResult - view Index executed in 110.0204ms.
+2022-04-14 01:25:09.464 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 123.209ms
+2022-04-14 01:25:09.465 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:25:09.485 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 211.9144ms
+2022-04-14 01:25:09.501 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2022-04-14 01:25:09.501 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - -
+2022-04-14 01:25:09.501 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:25:09.501 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - -
+2022-04-14 01:25:09.503 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2022-04-14 01:25:09.517 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2022-04-14 01:25:09.516 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:25:09.524 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 23.5627ms
+2022-04-14 01:25:09.529 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 13.2791ms
+2022-04-14 01:25:09.536 +03:00 [INF] The file /css/site.css was not modified
+2022-04-14 01:25:09.536 +03:00 [INF] The file /js/site.js was not modified
+2022-04-14 01:25:09.536 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-04-14 01:25:09.536 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-04-14 01:25:09.536 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-04-14 01:25:09.537 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 36.2375ms
+2022-04-14 01:25:09.538 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 21.0577ms
+2022-04-14 01:25:09.539 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 37.7224ms
+2022-04-14 01:25:09.540 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 38.2175ms
+2022-04-14 01:25:09.541 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 39.7367ms
+2022-04-14 01:26:23.072 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:26:23.233 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:26:23.234 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:26:23.236 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:26:23.237 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:26:23.238 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:26:23.987 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:26:24.021 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:26:24.043 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:26:24.045 +03:00 [INF] Bu ilk logum
+2022-04-14 01:26:24.046 +03:00 [ERR] Hata Logu
+2022-04-14 01:26:24.051 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:26:24.153 +03:00 [INF] Executed ViewResult - view Index executed in 101.8711ms.
+2022-04-14 01:26:24.158 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 113.4946ms
+2022-04-14 01:26:24.159 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:26:24.177 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 192.4087ms
+2022-04-14 01:26:24.192 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:26:24.192 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:26:24.194 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 2.0095ms
+2022-04-14 01:26:24.196 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.3517ms
+2022-04-14 01:29:32.562 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:29:32.749 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:29:32.751 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:29:32.754 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:29:32.755 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:29:32.756 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:29:33.330 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:29:33.356 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:29:33.378 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:29:33.381 +03:00 [INF] Bu ilk logum
+2022-04-14 01:29:33.381 +03:00 [ERR] Hata Logu
+2022-04-14 01:29:33.387 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:29:33.467 +03:00 [INF] Executed ViewResult - view Index executed in 79.4907ms.
+2022-04-14 01:29:33.470 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 90.63ms
+2022-04-14 01:29:33.471 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:29:33.484 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 155.5653ms
+2022-04-14 01:29:33.499 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:29:33.499 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - -
+2022-04-14 01:29:33.499 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2022-04-14 01:29:33.499 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:29:33.499 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - -
+2022-04-14 01:29:33.499 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2022-04-14 01:29:33.500 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2022-04-14 01:29:33.506 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 7.6818ms
+2022-04-14 01:29:33.507 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 8.0921ms
+2022-04-14 01:29:33.518 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-04-14 01:29:33.518 +03:00 [INF] The file /css/site.css was not modified
+2022-04-14 01:29:33.518 +03:00 [INF] The file /js/site.js was not modified
+2022-04-14 01:29:33.518 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-04-14 01:29:33.518 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-04-14 01:29:33.519 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 20.5864ms
+2022-04-14 01:29:33.519 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 21.0363ms
+2022-04-14 01:29:33.520 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 21.3917ms
+2022-04-14 01:29:33.521 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 22.8370ms
+2022-04-14 01:29:33.522 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 23.8917ms
+2022-04-14 01:36:16.215 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:36:16.399 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:36:16.400 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:36:16.403 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:36:16.404 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:36:16.404 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:36:17.052 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:36:17.090 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:36:17.115 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:36:17.119 +03:00 [INF] Bu ilk logum
+2022-04-14 01:36:17.123 +03:00 [ERR] Kullanıcı hatası {"Id":1,"NameSurname":"Duhan Kösali","Age":31,"$type":"Personal"}
+2022-04-14 01:36:17.133 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:36:17.237 +03:00 [INF] Executed ViewResult - view Index executed in 103.7712ms.
+2022-04-14 01:36:17.241 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 123.2799ms
+2022-04-14 01:36:17.242 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:36:17.255 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 205.5875ms
+2022-04-14 01:36:17.271 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:36:17.271 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - -
+2022-04-14 01:36:17.271 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2022-04-14 01:36:17.271 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - -
+2022-04-14 01:36:17.271 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2022-04-14 01:36:17.271 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2022-04-14 01:36:17.272 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:36:17.278 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 7.6384ms
+2022-04-14 01:36:17.284 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 12.7720ms
+2022-04-14 01:36:17.291 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-04-14 01:36:17.291 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-04-14 01:36:17.291 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-04-14 01:36:17.291 +03:00 [INF] The file /js/site.js was not modified
+2022-04-14 01:36:17.291 +03:00 [INF] The file /css/site.css was not modified
+2022-04-14 01:36:17.293 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 21.9092ms
+2022-04-14 01:36:17.293 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 22.4699ms
+2022-04-14 01:36:17.294 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 23.7955ms
+2022-04-14 01:36:17.296 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 24.5851ms
+2022-04-14 01:36:17.297 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 26.2951ms
+2022-04-14 01:39:06.840 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:39:07.009 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:39:07.011 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:39:07.013 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:39:07.013 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:39:07.014 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:39:07.670 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:39:07.700 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:39:07.724 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:39:07.726 +03:00 [INF] Bu ilk logum
+2022-04-14 01:39:07.729 +03:00 [ERR] Kullanıcı hatası {"Id":1,"NameSurname":"Duhan Kösali","Age":31,"$type":"Personal"}
+2022-04-14 01:39:07.733 +03:00 [INF] Kullanıcı doğrulandı {"Id":2,"NameSurname":"Batuhan Kösali","Age":35,"$type":"Personal"}
+2022-04-14 01:39:07.740 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:39:07.828 +03:00 [INF] Executed ViewResult - view Index executed in 87.2282ms.
+2022-04-14 01:39:07.831 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 105.9533ms
+2022-04-14 01:39:07.832 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:39:07.845 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 177.6661ms
+2022-04-14 01:39:07.859 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:39:07.859 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:39:07.863 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 3.9149ms
+2022-04-14 01:39:07.864 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 4.4498ms
+2022-04-14 01:42:08.467 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:42:08.626 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:42:08.627 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:42:08.630 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:42:08.630 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:42:08.631 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:42:09.245 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:42:09.274 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:42:09.297 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:42:09.300 +03:00 [INF] Bu ilk logum
+2022-04-14 01:42:09.303 +03:00 [ERR] Kullanıcı hatası {"Id":1,"NameSurname":"Duhan Kösali","Age":31,"$type":"Personal"}
+2022-04-14 01:42:09.308 +03:00 [INF] Kullanıcı doğrulandı {"Id":2,"NameSurname":"Batuhan Kösali","Age":35,"$type":"Personal"}
+2022-04-14 01:42:09.315 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:42:09.405 +03:00 [INF] Executed ViewResult - view Index executed in 89.9043ms.
+2022-04-14 01:42:09.409 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 111.1612ms
+2022-04-14 01:42:09.411 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:42:09.426 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 182.9632ms
+2022-04-14 01:42:09.443 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - -
+2022-04-14 01:42:09.444 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - -
+2022-04-14 01:42:09.443 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - -
+2022-04-14 01:42:09.445 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - -
+2022-04-14 01:42:09.446 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - -
+2022-04-14 01:42:09.444 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:42:09.445 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:42:09.456 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 11.3148ms
+2022-04-14 01:42:09.458 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 13.4710ms
+2022-04-14 01:42:09.467 +03:00 [INF] The file /lib/bootstrap/dist/js/bootstrap.bundle.min.js was not modified
+2022-04-14 01:42:09.467 +03:00 [INF] The file /lib/bootstrap/dist/css/bootstrap.min.css was not modified
+2022-04-14 01:42:09.467 +03:00 [INF] The file /css/site.css was not modified
+2022-04-14 01:42:09.467 +03:00 [INF] The file /js/site.js was not modified
+2022-04-14 01:42:09.481 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/js/site.js?v=4q1jwFhaPaZgr8WAUSrux6hAuh0XDg9kPS3xIVq36I0 - - - 304 - application/javascript 36.4210ms
+2022-04-14 01:42:09.469 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/js/bootstrap.bundle.min.js - - - 304 - application/javascript 24.7559ms
+2022-04-14 01:42:09.470 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/bootstrap/dist/css/bootstrap.min.css - - - 304 - text/css 26.9942ms
+2022-04-14 01:42:09.480 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/css/site.css?v=AKvNjO3dCPPS0eSU1Ez8T2wI280i08yGycV9ndytL-c - - - 304 - text/css 35.4122ms
+2022-04-14 01:42:09.467 +03:00 [INF] The file /lib/jquery/dist/jquery.min.js was not modified
+2022-04-14 01:42:09.490 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/lib/jquery/dist/jquery.min.js - - - 304 - application/javascript 46.4095ms
+2022-04-14 01:43:03.959 +03:00 [INF] User profile is available. Using 'C:\Users\duhan\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2022-04-14 01:43:04.112 +03:00 [INF] Now listening on: https://localhost:7259
+2022-04-14 01:43:04.113 +03:00 [INF] Now listening on: http://localhost:5259
+2022-04-14 01:43:04.115 +03:00 [INF] Application started. Press Ctrl+C to shut down.
+2022-04-14 01:43:04.116 +03:00 [INF] Hosting environment: Development
+2022-04-14 01:43:04.116 +03:00 [INF] Content root path: D:\net-core-projeler\Logging-in-ASPNETCORE\Logging-in-ASPNETCORE\
+2022-04-14 01:43:04.969 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/ - -
+2022-04-14 01:43:04.997 +03:00 [INF] Executing endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:43:05.019 +03:00 [INF] Route matched with {action = "Index", controller = "Home"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult Index() on controller Logging_in_ASPNETCORE.Controllers.HomeController (Logging-in-ASPNETCORE).
+2022-04-14 01:43:05.021 +03:00 [INF] Bu ilk logum
+2022-04-14 01:43:05.024 +03:00 [ERR] Kullanıcı hatası {"Id":1,"NameSurname":"Duhan Kösali","Age":31,"$type":"Personal"}
+2022-04-14 01:43:05.028 +03:00 [INF] Kullanıcı doğrulandı {"Id":2,"NameSurname":"Batuhan Kösali","Age":35,"$type":"Personal"}
+2022-04-14 01:43:05.034 +03:00 [INF] Executing ViewResult, running view Index.
+2022-04-14 01:43:05.107 +03:00 [INF] Executed ViewResult - view Index executed in 72.8945ms.
+2022-04-14 01:43:05.110 +03:00 [INF] Executed action Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE) in 90.2336ms
+2022-04-14 01:43:05.111 +03:00 [INF] Executed endpoint 'Logging_in_ASPNETCORE.Controllers.HomeController.Index (Logging-in-ASPNETCORE)'
+2022-04-14 01:43:05.125 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/ - - - 200 - text/html;+charset=utf-8 157.9566ms
+2022-04-14 01:43:05.138 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - -
+2022-04-14 01:43:05.138 +03:00 [INF] Request starting HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - -
+2022-04-14 01:43:05.140 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/Logging_in_ASPNETCORE.styles.css - - - 404 0 - 2.0115ms
+2022-04-14 01:43:05.142 +03:00 [INF] Request finished HTTP/2 GET https://localhost:7259/_framework/aspnetcore-browser-refresh.js - - - 200 12000 application/javascript;+charset=utf-8 3.9153ms
